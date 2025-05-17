@@ -2,7 +2,7 @@
 - 👀 I’m interested in web develpoment
 - 🌱 I’m currently learning full stack development at techplement 
 - 💞️ I’m looking to collaborate on project relating web development 
-- 📫 How to reach mail me @ mehulkamsara065@gmail.com
+- 📫 How to reach mail me @ mehulkansara065@gmail.com
 
 
 <!---
